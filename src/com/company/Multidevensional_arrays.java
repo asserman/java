@@ -4,7 +4,7 @@ public class Multidevensional_arrays {
     public static void main(String[] args) {
 //        int [] number = {1,2,3};
 //        System.out.println(number[1]);
-//        /**
+//        /** 2
 //         * 1,2,3,4,5,0,-1,-2
 //         *
 //         * 156
