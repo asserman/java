@@ -21,13 +21,13 @@ public class Multidevensional_arrays {
 //            }
 //
 //        }
-        Srting[][] strings = new Srting[35];
-        for (int i = 128; i <128+35 ; i++) {
-            strings[i]= ((char) i);
-            System.out.println(strings[i]);
-
-
-        }
+//        Srting[][] strings = new Srting[35];
+//        for (int i = 128; i <128+35 ; i++) {
+//            strings[i]= ((char) i);
+//            System.out.println(strings[i]);
+//
+//
+//        }
 
     }
 }
